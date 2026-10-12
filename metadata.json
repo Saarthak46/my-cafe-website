@@ -1,0 +1,6 @@
+{
+  "name": "Solstice & Sage Café — Slow Brews & Artisan Hearth",
+  "description": "An independent neighborhood café dedicated to single-origin shade-grown beans, dawn sourdough bakes, slow living, and table reservations in Bandra West, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
